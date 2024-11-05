@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to my website</title>
+    <style>
+        body {
+            background-color:rgb(234, 108, 244)
+        }
+        h1 {text-align: center;}
+    </style>
 </head>
 <body>
-    <h1>WELCOME</h1>
-    <p>This is a text.</p>
-    
+    <h1 style="color:purple;">Sequim High School Bowling Seniors!
+    </h1>
+    <p>Paragraph</p>
+    <h2 style="color:rgb(50,150,200); border-style:solid; border-color:Purple;">Should have a border</h2>
+
 </body>
 
 </html>
